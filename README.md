@@ -1,4 +1,4 @@
-# Hi there [Fernando Sartorius](https://github.com/Sartorius11) 👋
+# Hi there I'm [Fernando Sartorius](https://github.com/Sartorius11) 👋 
 
 ### 💻 Fernando Sartorius Carreras
 Developer with experience in .NET and JavaScript, with a special passion for the logic behind code and its ability to adapt to different needs.
