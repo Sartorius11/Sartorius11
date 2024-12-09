@@ -10,7 +10,7 @@ I am always eager to learn and grow, expanding my knowledge in modern technologi
 * Master's Program in *FullStack Developer Tajamar* (incomplete due to personal reasons)
 * Bootcamp at 4Geeks Academy (ongoing):
 * Frontend: JavaScript, React.
-* Backend: Python, SQL.
+* Backend: Python, C#, SQL.
 
 ### 🚀 Featured Projects
 > 📁 DeviantArt-Style Platform
