@@ -8,7 +8,7 @@ I am always eager to learn and grow, expanding my knowledge in modern technologi
 ### 🎓 Education
 * Higher Technician in Multiplatform Application Development (DAM)
 * Master's Program in *FullStack Developer Tajamar* (incomplete due to personal reasons)
-* Bootcamp at 4Geeks Academy (ongoing):
+* Bootcamp at 4Geeks Academy.
 * Frontend: JavaScript, React.
 * Backend: Python, C#, SQL.
 
