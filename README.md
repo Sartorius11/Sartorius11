@@ -19,7 +19,7 @@ I am always eager to learn and grow, expanding my knowledge in modern technologi
   <li>
     Description: A platform designed for users to share and discover digital art, inspired by DeviantArt.
   </li>
-  <li> Technologies: .NET for the backend, React for the frontend.
+  <li> Technologies: Python for the backend, React for the frontend.
   </li>
   </ul>
 </ul> 
