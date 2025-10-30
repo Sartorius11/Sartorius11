@@ -1,7 +1,7 @@
 # Hi there I'm [Fernando Sartorius](https://github.com/Sartorius11) 👋 
 
 ### 💻 Fernando Sartorius Carreras
-Developer with experience in .NET and JavaScript, with a special passion for the logic behind code and its ability to adapt to different needs.
+Developer with experience in JavaScript and Python, with a special passion for the logic behind code and its ability to adapt to different needs.
 
 I am always eager to learn and grow, expanding my knowledge in modern technologies.
 
